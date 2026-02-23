@@ -12,8 +12,4 @@ while (i < n):
 print(arr[i], end = " ")
 i += 1
 print("")
-<<<<<<< HEAD
-print(arr.lentgh())
-=======
-print("YOU ARE WINNER!!")
->>>>>>> 9c692afe93effa02934816eede544de303a5c990
+print("YOU ARE WINNER, bro!!")
